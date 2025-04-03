@@ -1,1 +1,6 @@
 /bin/
+/bin/
+target/
+.idea/
+*.iml
+.DS_Store

@@ -1,5 +1,5 @@
-# Employee Management System
-# Overview
+Employee Management System
+Overview
 A robust Java-based Employee Management System that demonstrates modern Java features including Stream API, Functional Interfaces, and clean code principles. This system provides comprehensive employee data management capabilities with efficient data processing and manipulation.
 
 # Features
@@ -14,6 +14,7 @@ Java 11+
 Stream API
 Functional Interfaces
 Object-Oriented Programming Principles
+
 # Project Structure
 com.sms/
 ├── model/
@@ -33,6 +34,7 @@ EmployeeService Class
 Business logic implementation
 Manages employee data operations
 Implements functional programming concepts
+
 # Key methods:
 addSampleData(): Initializes sample employee records
 getEmployeeNameAndDepartment(): Demonstrates Function interface usage
@@ -73,14 +75,15 @@ SOLID principles
 Proper encapsulation
 Efficient use of Java Stream API
 Functional programming concepts
-Future Enhancements
+
+
+# Likely Enhancements
 Database integration
 REST API implementation
 User interface development
 Additional analytics features
 Employee data validation
 Contributing
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss the proposed changes.
 
 License
 MIT License

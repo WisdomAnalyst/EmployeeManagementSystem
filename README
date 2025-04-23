@@ -73,17 +73,8 @@ Best Practices Implemented
 Clean Code principles
 SOLID principles
 Proper encapsulation
-Efficient use of Java Stream API
-Functional programming concepts
-
-
-# Likely Enhancements
-Database integration
-REST API implementation
-User interface development
-Additional analytics features
-Employee data validation
-Contributing
+Use of Java Stream API
+programming concepts
 
 License
 MIT License

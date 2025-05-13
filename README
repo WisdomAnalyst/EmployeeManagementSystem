@@ -15,14 +15,7 @@ Stream API
 Functional Interfaces
 Object-Oriented Programming Principles
 
-# Project Structure
-com.sms/
-├── model/
-│   └── Employee.java         - Employee entity class
-├── service/
-│   └── EmployeeService.java  - Business logic implementation
-└── employee/
-    └── EmployeeManagementSystem.java  - Main application class
+
 
 # Key Components
 Employee Class
@@ -69,7 +62,6 @@ Error Handling
 Comprehensive try-catch implementation
 Detailed error messaging
 Stack trace availability for debugging
-Best Practices Implemented
 Clean Code principles
 SOLID principles
 Proper encapsulation
